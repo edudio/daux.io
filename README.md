@@ -1,3 +1,5 @@
+用来给edudio的产品做使用教程，感谢开源项目 daux.io
+
 **Daux.io** is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
 
 ## Features
